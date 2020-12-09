@@ -57,10 +57,6 @@ class _PriceScreenState extends State<PriceScreen> {
           Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: [
-              FlatButton(
-                  color: Colors.blueAccent,
-                  onPressed: () {},
-                  child: Text('try')),
               Padding(
                 padding: EdgeInsets.fromLTRB(18.0, 18.0, 18.0, 0),
                 child: Card(
